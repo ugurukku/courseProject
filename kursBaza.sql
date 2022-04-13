@@ -1,6 +1,4 @@
-
-
-use kurs
+create database kurss
 
 create table telimciStatus(
 status_id bit primary key,
